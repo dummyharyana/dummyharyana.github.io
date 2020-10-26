@@ -1,2 +1,0 @@
-# airtel
-dummy project
